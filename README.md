@@ -8,10 +8,10 @@ This project is about Liquid Pull To Refresh (A beautiful and custom refresh ind
 
 ### CodeTechX Socials
 
-Twitter: [@CodeTechX](https://x.com/CodeTechX/)
-Facebook: [CodeTechX](https://facebook.com/profile.php?id=61550308065075/)
+- Twitter: [@CodeTechX](https://x.com/CodeTechX/)
+- Facebook: [CodeTechX](https://facebook.com/profile.php?id=61550308065075/)
 
 
-### SenpaiInTech Socials
-Twitter: [@SenpaiInTech](https://x.com/SenpaiInTechSenpaiInTech/)
+### SenpaiInTech Socials 
+- Twitter: [@SenpaiInTech](https://x.com/SenpaiInTechSenpaiInTech/)
 
